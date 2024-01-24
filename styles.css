@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.accio {
+  width: 150px;
+  height: 150px;
+  background-color: #000000;
+}
+
+.hello-accio {
+  color: white;
+  margin-left: 32px;
+  padding: 10px;
+}
